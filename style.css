@@ -54,3 +54,66 @@ h2 {
 h3 {
     font-size: 20px;
 }
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+}
+
+header {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+nav a {
+  padding: 10px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+main {
+  margin-top: 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+}
+
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.presentation {
+  background-color: #ffffff;
+}
+
+.services {
+  background-color: #f0f0f0;
+}
+
+.apropos {
+  background-color: #ffffff;
+}
+
+.contact {
+  background-color: #f0f0f0;
+}
