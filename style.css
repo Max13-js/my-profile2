@@ -1,0 +1,56 @@
+body {
+    background-color: #3498db;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #3498db;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+header {
+    background-color: #fff;
+    color: #3498db;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+#profile {
+    margin: 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 5px solid #fff;
+}
+
+#passions {
+    margin: 20px;
+}
+
+.passion {
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 20px;
+}
