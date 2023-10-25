@@ -1,5 +1,5 @@
 body {
-    background-color: #34328db;
+    background-color: #3418db;
     color: #fff;
     font-family: Arial, sans-serif;
     text-align: center;
@@ -13,14 +13,14 @@ nav {
 }
 
 nav a {
-    color: #3498db;
+    color: #3418db;
     font-size: 20px;
     text-decoration: none;
 }
 
 header {
     background-color: #fff;
-    color: #3498db;
+    color: #3418db;
     padding: 20px;
 }
 
